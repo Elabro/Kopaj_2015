@@ -1,7 +1,5 @@
 Próba 2
-<<<<<<< HEAD
 asdasdasdasdasdaasd
-=======
 das
 dasd
 asd
@@ -9,4 +7,3 @@ ad
 ada
 da
 d
->>>>>>> 2aa3c655b70095de33e00f921193ffe0e1463abb
