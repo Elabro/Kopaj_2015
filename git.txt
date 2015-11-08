@@ -1,0 +1,5 @@
+﻿git status - milyen fájlok módosultak
+git add -A	- miden fájl feltölt
+git commit -m "Deni egy fasz"
+
+próba
